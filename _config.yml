@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/foto_cuadrada.jpeg"
+  avatar           : "/images/foto_cuadrada.JPEG"
   name             : "Lucas Monaldi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate | Aeronautical Engineer | CFD | Assistant Professor"
