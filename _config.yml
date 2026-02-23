@@ -23,7 +23,7 @@ repository               : "LucasMonaldi/lucasmonaldi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto4x4.jpg"
+  avatar           : "foto_rectangular.jpeg"
   name             : "Lucas Monaldi"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate | Aeronautical Engineer | CFD | Assistant Professor"
