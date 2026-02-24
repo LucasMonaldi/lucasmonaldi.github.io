@@ -1,7 +1,7 @@
 ---
 title: "Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/journal/2025-08-23-parametric-study-explosion
 excerpt: 'A numerical study on how explosion height influences blast wave dynamics and Mach stem formation, revealing critical overpressures on industrial storage tanks.'
 date: 2025-08-23
@@ -24,4 +24,4 @@ Using **OpenFOAM**, with a validated methodology, we discovered that the height 
 **Why does this matter?**
 Our simulations showed that at certain intermediate heights, this phenomenon generates localized pressures of up to **180 kPa** at the base of the tanks. This is much higher than what traditional ground-level models predict. By understanding these patterns, we can help design safer industrial layouts and more resilient infrastructure against accidental explosions.
 
-**Paper available**. Please contact me if you are interest: lucas.monaldi@unc.edu.ar
+**Paper available**. Please contact me if you are interested: lucas.monaldi@unc.edu.ar
