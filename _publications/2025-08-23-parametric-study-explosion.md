@@ -8,7 +8,6 @@ date: 2025-08-23
 venue: 'Process Safety and Environmental Protection'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957582025010493?via%3Dihub'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Monaldi, L., Marcantoni, L. F. G., & Elaskar, S. A. (2025). Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd. Process Safety and Environmental Protection, 107782.'
 ---
 ### En pocas palabras...
@@ -19,4 +18,4 @@ Aquí escribí ese resumen coloquial que mencionaste. Enfocate en el **¿qué lo
 
 *Descripción corta de lo que se ve en la imagen (ej: Comparación de la onda de choque vs datos experimentales).*
 
-Paper available. Please contact me if you are intereste: lucas.monaldi@unc.edu.ar
+**Paper available**. Please contact me if you are interest: lucas.monaldi@unc.edu.ar
