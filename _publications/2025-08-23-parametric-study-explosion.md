@@ -2,7 +2,7 @@
 title: "Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-23-parametric-study-explosion
+permalink: /publication/journal/2025-08-23-parametric-study-explosion
 excerpt: 'A numerical study on how explosion height influences blast wave dynamics and Mach stem formation, revealing critical overpressures on industrial storage tanks.'
 date: 2025-08-23
 venue: 'Process Safety and Environmental Protection'
