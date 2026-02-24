@@ -11,7 +11,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S09575820250104
 # bibtexurl: 'bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib''
 citation: 'Monaldi, L., Marcantoni, L. F. G., & Elaskar, S. A. (2025). Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd. Process Safety and Environmental Protection, 107782.'
 ---
-### In a nutshell...
+### The problem...
 
 In industrial safety, we often calculate explosion risks assuming the blast occurs at ground level. However, real-world accidents (like those in refineries) often happen at different heights. 
 
