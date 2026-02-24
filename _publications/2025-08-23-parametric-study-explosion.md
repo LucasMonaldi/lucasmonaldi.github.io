@@ -16,9 +16,9 @@ citation: 'Monaldi, L., Marcantoni, L. F. G., & Elaskar, S. A. (2025). Parametri
 In industrial safety, we often calculate explosion risks assuming the blast occurs at ground level. However, real-world accidents (like those in refineries) often happen at different heights. 
 
 **What did we find?**
-Using **OpenFOAM**, we discovered that the height of the explosion completely changes how the shock wave "hits" a storage tank. As the explosion moves upward, the reflection on the ground creates a **Mach stem**—a reinforced shock front. 
+Using **OpenFOAM**, with a validated methodology, we discovered that the height of the explosion completely changes how the shock wave "hits" a storage tank. As the explosion moves upward, the reflection on the ground creates a **Mach stem**—a reinforced shock front. 
 
-![Mach Stem Interaction]({{ base_path }}/images/image_paper_process.png)
+![Mach Stem Interaction]({{ base_path }}/images/image_paper_process.svg)
 *Figure: Pressure contours for six explosion heights H when the blast wave is about to impact the front of the tank.*
 
 **Why does this matter?**
