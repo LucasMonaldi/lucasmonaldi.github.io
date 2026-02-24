@@ -16,4 +16,4 @@ Aquí escribí ese resumen coloquial que mencionaste. Enfocate en el **¿qué lo
 ![Descripción de la imagen]({{ base_path }}/images/tu-imagen-del-paper.png)
 *Descripción corta de lo que se ve en la imagen (ej: Comparación de la onda de choque vs datos experimentales).*
 
-[Descargar PDF]({{ base_path }}/files/tu-paper.pdf)
+Paper available. Please contact me if you are intereste: lucas.monaldi@unc.edu.ar
