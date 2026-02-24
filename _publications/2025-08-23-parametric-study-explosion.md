@@ -1,14 +1,14 @@
 ---
 title: "Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd"
 collection: publications
-category: journal
+type: journal
 permalink: /publication/journal/2025-08-23-parametric-study-explosion
 excerpt: 'A numerical study on how explosion height influences blast wave dynamics and Mach stem formation, revealing critical overpressures on industrial storage tanks.'
 date: 2025-08-23
 venue: 'Process Safety and Environmental Protection'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957582025010493?via%3Dihub'
-# bibtexurl: 'bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib''
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957582025010493'
+# bibtexurl: 'bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Monaldi, L., Marcantoni, L. F. G., & Elaskar, S. A. (2025). Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd. Process Safety and Environmental Protection, 107782.'
 ---
 ### The problem...
