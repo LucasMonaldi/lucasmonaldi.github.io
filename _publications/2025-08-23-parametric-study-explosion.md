@@ -13,7 +13,7 @@ Aquí escribí ese resumen coloquial que mencionaste. Enfocate en el **¿qué lo
 *Ejemplo: "En este trabajo logramos reducir el tiempo de cálculo de una explosión en un 80% sin perder precisión. Esto permite que ingenieros civiles puedan evaluar edificios enteros en una tarde, algo que antes tomaba semanas."*
 
 ### Visualización del flujo
-![Descripción de la imagen]({{ base_path }}/images/tu-imagen-del-paper.png)
+![Descripción de la imagen]({{ base_path }}/images/image_paper_process.pdf)
 *Descripción corta de lo que se ve en la imagen (ej: Comparación de la onda de choque vs datos experimentales).*
 
 Paper available. Please contact me if you are intereste: lucas.monaldi@unc.edu.ar
