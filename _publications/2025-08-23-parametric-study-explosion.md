@@ -8,6 +8,7 @@ date: 2025-08-23
 venue: 'Process Safety and Environmental Protection'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0957582025010493?via%3Dihub'
+bibtexurl: ''
 citation: 'Monaldi, L., Marcantoni, L. F. G., & Elaskar, S. A. (2025). Parametric study of explosion height effects on blast loading characteristics for cylindrical storage tanks using cfd. Process Safety and Environmental Protection, 107782.'
 ---
 ### En pocas palabras...
