@@ -18,7 +18,7 @@ In industrial safety, we often calculate explosion risks assuming the blast occu
 **What did we find?**
 Using **OpenFOAM**, with a validated methodology, we discovered that the height of the explosion completely changes how the shock wave "hits" a storage tank. As the explosion moves upward, the reflection on the ground creates a **Mach stem**—a reinforced shock front. 
 
-![Mach Stem Interaction]({{ base_path }}/images/image_paper_process.svg)
+![Mach Stem Interaction]({{ base_path }}/images/image_paper_process.png)
 *Figure: Pressure contours for six explosion heights H when the blast wave is about to impact the front of the tank.*
 
 **Why does this matter?**
