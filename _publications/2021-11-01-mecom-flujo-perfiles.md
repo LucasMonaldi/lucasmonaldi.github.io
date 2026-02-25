@@ -21,5 +21,4 @@ This comprehensive study evaluates the aerodynamic performance of three differen
 * **Boundary Layer Physics:** Detailed comparison of velocity profiles and friction coefficients against experimental AGARD and NASA data.
 * **Numerical Strategy:** Implementation of specific meshing techniques (mixed meshes and trailing edge treatment) to optimize results within the constraints of student-edition software.
 
-
-Conference paper presented at **MECOM 2021**.
+**Note:** This is a **peer-reviewed full paper** published in the congress proceedings. Conference paper presented at **MECOM 2021**.
