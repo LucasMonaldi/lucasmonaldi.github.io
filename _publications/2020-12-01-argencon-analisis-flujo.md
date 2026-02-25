@@ -20,6 +20,7 @@ This research presents an aerodynamic study of a **diamond-shaped airfoil** oper
 * **Results:** We achieved an excellent correlation between the numerical Lift ($C_L$) and Drag ($C_D$) coefficients and the theoretical predictions.
 * **Practical Application:** This work served as a fundamental baseline for understanding the behavior of control surfaces in high-speed flight vehicles.
 
-Conference paper presented at **IEEE - ARGENCON 2020**.
+
+**Note:** This is a **peer-reviewed full paper** published in the congress proceedings. Conference paper presented at **IEEE - ARGENCON 2020**.
 
 **Paper available**. Please contact me if you are interested: lucas.monaldi@unc.edu.ar
