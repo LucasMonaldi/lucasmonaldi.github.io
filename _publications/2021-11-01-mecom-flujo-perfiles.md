@@ -23,5 +23,3 @@ This comprehensive study evaluates the aerodynamic performance of three differen
 
 
 Conference paper presented at **MECOM 2021**.
-
-- **Paper available**. Please contact me if you are interested: lucas.monaldi@unc.edu.ar
