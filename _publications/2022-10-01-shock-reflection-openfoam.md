@@ -2,13 +2,13 @@
 title: "OpenFOAM<sup>TM</sup> Simulation of the Shock Wave Reflection in Unsteady Flow"
 collection: publications
 type: journal
-permalink: /publication/2022-10-01-shock-reflection-openfoam
+permalink: /publication/journal/2022-shock-reflection-openfoam
 excerpt: 'A comprehensive validation of the KNP scheme in OpenFOAM for predicting regular and Mach shock reflections in unsteady flows.'
 date: 2022-10-01
 venue: 'Symmetry'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://www.mdpi.com/2073-8994/14/10/2048'
-# bibtexurl: 'bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Monaldi, L., Marcantoni, L. G., & Elaskar, S. (2022). OpenFOAM™ Simulation of the Shock Wave Reflection in Unsteady Flow. Symmetry, 14(10), 2048.'
 ---
 ### The challenge: Can CFD predict shock wave reflection over surfaces?
