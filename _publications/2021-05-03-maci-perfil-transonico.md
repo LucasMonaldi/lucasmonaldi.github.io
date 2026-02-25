@@ -19,6 +19,7 @@ This study focuses on the numerical simulation of the **RAE 2822 supercritical a
 * **Shock Wave Capture:** The simulation accurately predicted the shock wave position at approximately 53% of the chord ($x/c \approx 0.53$).
 * **Numerical Strategy:** Implemented a mixed meshing strategy and a small trailing edge chamfer to ensure high mesh quality ($y^+ < 1$) within the constraints of student-version software.
 
-Conference paper presented at **MACI 2021**.
+
+**Note:** This is a **peer-reviewed full paper** published in the congress proceedings. Conference paper presented at **MACI 2021**.
 
 **Paper available**. Please contact me if you are interested: lucas.monaldi@unc.edu.ar
