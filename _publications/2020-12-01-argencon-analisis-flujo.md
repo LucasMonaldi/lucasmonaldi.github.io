@@ -10,7 +10,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/9505368'
 
 *English title: Numerical simulation of transonic flow around an airfoil*
 
-Presented at ARGENCON 2020. 
+Presented at **IEEE - ARGENCON 2020**.
 
 ### Short Description
 This research presents an aerodynamic study of a **diamond-shaped airfoil** operating under supersonic conditions ($Ma = 2.0$). The primary goal was to validate the use of Computational Fluid Dynamics (CFD) tools by comparing numerical results from **ANSYS Fluent** with analytical values derived from shock-expansion theory.
