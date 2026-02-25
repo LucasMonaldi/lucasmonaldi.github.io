@@ -2,7 +2,7 @@
 title: "OpenFOAM<sup>TM</sup> Simulation of the Shock Wave Reflection in Unsteady Flow"
 collection: publications
 type: journal
-permalink: /publication/journal/2022-10-01-shock-reflection-openfoam
+permalink: /publication/2022-10-01-shock-reflection-openfoam
 excerpt: 'A comprehensive validation of the KNP scheme in OpenFOAM for predicting regular and Mach shock reflections in unsteady flows.'
 date: 2022-10-01
 venue: 'Symmetry'
