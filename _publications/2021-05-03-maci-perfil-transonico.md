@@ -21,4 +21,4 @@ This study focuses on the numerical simulation of the **RAE 2822 supercritical a
 
 Conference paper presented at **MACI 2021**.
 
-# **Paper available**. Please contact me if you are interested: lucas.monaldi@unc.edu.ar
+**Paper available**. Please contact me if you are interested: lucas.monaldi@unc.edu.ar
