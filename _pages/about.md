@@ -14,7 +14,7 @@ I am an Aeronautical Engineer with an M.Sc. in Engineering Sciences (Aerospace E
 ### CFD & PhD
 I have calibrated a solver capable of accurately predicting explosion-induced loads on structures without the need for complex chemistry modeling. This high-fidelity yet computationally efficient approach drastically reduces costs, enabling the analysis of explosion effects on large-scale structures and vast domains where traditional chemical-reactive simulations would be prohibitive.
 
-My workflow is centered on **OpenFOAM**, with specific expertise in the **rhoCentralFoam** solver. Working in CFD for explosions requires a multidisciplinary skill set: from advanced fluid mechanics (gas dynamics) and numerical methods to the physics of explosions—including shock waves, blast waves, and wave reflection.
+My workflow is centered on **OpenFOAM**, with specific expertise in the **rhoCentralFoam** solver. Working in CFD for explosions requires a multidisciplinary skill set: from advanced fluid mechanics (gas dynamics) and numerical methods to the physics of explosions, including shock waves, blast waves, and wave reflection.
 
 ### Independent Consulting & Industry Experience
 Throughout my career, I have also collaborated on independent structural calculation projects for the Aerospace and Nuclear industries in Argentina, working alongside specialized colleagues from the National University of Córdoba. Utilizing **Ansys Mechanical**, I provide technical support for critical components where safety and structural integrity are paramount. 
@@ -35,7 +35,7 @@ Unlike many purely technical engineers, I consider my background in university t
 ### Professional Vision & Goals
 My goal is to translate the capabilities gained during my doctorate into innovative solutions for complex, real-world engineering challenges. I seek to bridge the gap between academic research and industrial application, leveraging the expertise of multidisciplinary teams to solve problems in aerodynamics, gas dynamics, and general fluid mechanics.
 
-Furthermore, I am committed to exploring the growing role of **Artificial Intelligence** in engineering education and practice, learning from the fresh perspectives of new generations of engineers while maintaining a rigorous commitment to technical excellence and responsible teamwork.
+Furthermore, I am committed to exploring the growing role of Artificial Intelligence in engineering education and practice, learning from the fresh perspectives of new generations of engineers while maintaining a rigorous commitment to technical excellence and responsible teamwork.
 
 ---
 
