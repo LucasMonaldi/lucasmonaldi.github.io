@@ -3,7 +3,7 @@ title: "Consideraciones sobre la variación de la entalpía en la dinámica de l
 collection: publications
 type: conference
 permalink: /publication/conference/2022-07-09-argencon-consideraciones-entalpia
-date: 2022-07-09-argencon-consideraciones
+date: 2022-07-09
 venue: 'IEEE Biennial Congress of Argentina (ARGENCON), 2022'
 paperurl: 'https://ieeexplore.ieee.org/document/9940028/'
 ---
