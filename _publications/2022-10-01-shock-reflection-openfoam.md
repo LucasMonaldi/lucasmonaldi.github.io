@@ -17,17 +17,21 @@ One of the hardest things to simulate in high-speed aerodynamics is how shock wa
 We simulated a shock wave traveling through a channel and hitting a wedge. This creates complex patterns: **Regular Reflection (RR)** and **Stochastic/Mach Reflection (MR)**. We compared the numerical results against the classic "Three-Shock Theory" to see if the software could really capture the physics.
 
 **Key Findings:**
-* **High Precision:** The solver accurately predicted the transition between reflection types, which is critical for aerospace design.
-* **Symmetry and Stability:** We confirmed that the numerical method maintains physical symmetry and handles the "triple point" (where three shock waves meet) without artificial oscillations.
+* The solver accurately predicted the transition between reflection types, which is critical for aerospace design.
+* We confirmed that the numerical method maintains physical symmetry and handles the "triple point" (where three shock waves meet) without artificial oscillations.
 
-**Why it matters:**
-Before simulating a full-scale explosion or a supersonic vehicle, we need to know our "virtual laboratory" works. This paper serves as the **scientific backbone** that validates the tools I use in my current PhD research on blast loads.
+ **Why it matters:**
+
+This paper serves as the **scientific backbone** that validates the tools I use in my current PhD research on blast loads and their interaction with solid surfaces.
+
 
 ![Shock Wave Reflection Patterns]({{ base_path }}/images/paper_symmetry_1.png)
-*Figure: Comparison between Regular Reflection (RR) and Mach Reflection (MR) captured in our unsteady flow simulations.*
+
+*Figure: Wave structure obtained as numerical schlieren images. In this case we observed the incident shock, the reflected one, the Mach stem and the contact discontinuity.*
 
 
-![Shock Wave Reflection Patterns]({{ base_path }}/images/paper_symmetry_2.jpg)
-*Figure: Comparison between Regular Reflection (RR) and Mach Reflection (MR) captured in our unsteady flow simulations.*
+![Shock Wave Reflection Patterns Ben-Dor]({{ base_path }}/images/paper_symmetry_2.jpg)
+
+*Figure:  Case of pseudo-steady transitional Mach-reflection. The position of the reflection point R, the triple point T and the second triple point T’ is shown. Adapted from Ben-Dor (2007).* 
 
 **Paper available**. Please contact me if you are interested: [lucas.monaldi@unc.edu.ar](mailto:lucas.monaldi@unc.edu.ar)
