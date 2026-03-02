@@ -19,7 +19,7 @@ This study validates the use of the **Kurganov-Noelle-Petrova (KNP)** numerical 
 * **Methodology:** Implementation of high-resolution CFD models to replace or complement traditional empirical methods (like the TNT equivalent method) in risk assessment.
 * **Safety Engineering:** The results provide a validated computational framework for determining safety distances and designing protective measures for critical energy infrastructure.
 
-![Mach Stem Interaction]({{ base_path }}/images/casos_estudiados_MECOM2025.png.png)
+![Cases studied]({{ base_path }}/images/casos_estudiados_MECOM2025.png)
 *Figure: Cases studied.*
 
 **Note:** This is a **peer-reviewed full paper** published in the congress proceedings.
