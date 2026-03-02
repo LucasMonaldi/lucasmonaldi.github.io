@@ -2,7 +2,7 @@
 title: "Influencia de limitadores TVD en la estructura de ondas producidas por la liberación de energía instantánea utilizando OpenFOAM"
 collection: publications
 type: conference
-permalink: /publication/conference/2024-10-16-argencon-tvd-limiters.
+permalink: /publication/conference/2024-10-16-argencon-tvd-limiters
 date: 2024-10-16
 venue: 'IEEE Biennial Congress of Argentina (ARGENCON)'
 paperurl: 'https://ieeexplore.ieee.org/document/10735827'
