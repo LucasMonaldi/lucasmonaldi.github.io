@@ -4,7 +4,7 @@ collection: publications
 type: conference
 permalink: /publication/conference/2025-11-11-mecom-elevated-explosion-tanks
 date: 2025-11-11
-venue: 'XXX Congress on Numerical Methods and their Applications (MECOM 2025)'
+venue: 'XLI Congress on Numerical Methods and their Applications (MECOM 2025)'
 paperurl: 'https://doi.org/10.70567/mc.v42.ocsid8335'
 ---
 
