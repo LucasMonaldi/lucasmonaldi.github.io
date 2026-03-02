@@ -20,6 +20,6 @@ Atmospheric storage tanks are critical and vulnerable assets in the oil industry
 * **Process Safety:** Contributes to the field of "Process Safety and Environmental Protection" by offering a validated computational approach to replace or enhance traditional empirical safety models.
 
 ![Boundary Conditions]({{ base_path }}/images/mecom2025_Boundary_Conditions.jpg)
-*Figure: Pressure contours for six explosion heights H when the blast wave is about to impact the front of the tank.*
+*Figure: Boundary conditions in the computational domain and wave structures at t=39 ms for an initial explosion at a height of 7.2 m above the ground.*
 
 **Note:** This is a **peer-reviewed full paper** published in the congress proceedings.
