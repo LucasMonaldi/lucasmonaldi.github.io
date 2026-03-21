@@ -14,7 +14,7 @@ Profesor Asistente - Mecánica de Fluidos - FCEFyN (UNC) desde 2023
 
 La mecánica de fluidos, *cuco* casi para todas las ingenierías de la facultad, representa un gran desafío para los estudiantes: integrar conceptos complejos de fluidos y acompañarlos con una matemática que han aprendido (o eso esperamos) en años anteriores y que, muchas veces, no han continuado utilizando en otras materias.
 
-Para complementar el dictado de la materia, pensando en *escenarios híbrios* (INCLUIR LINK) he decidido este año complemtar al material teórico y práctico (de a poquito) subiendo grabaciones de ejercicios resueltos, material siempre solicitado por los alumnos, a un [canal de Youtube]([https://unc.edu.ar](https://www.youtube.com/@LUCASMONALDI/playlists)).
+Para complementar el dictado de la materia, pensando en *escenarios híbrios* (INCLUIR LINK) he decidido este año complemtar al material teórico y práctico (de a poquito) subiendo grabaciones de ejercicios resueltos, material siempre solicitado por los alumnos, a un [canal de Youtube](https://www.youtube.com/@LUCASMONALDI/playlists).
 
 
 ### ¿Qué queremos que los/as estudiantes aprendan?
