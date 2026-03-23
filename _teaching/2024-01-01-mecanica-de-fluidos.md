@@ -26,7 +26,7 @@ Volviendo a la pregunta: *¿Qué queremos que los/as estudiantes aprendan?*, que
 Por el momento, la pregunta sigue abierta (y que así siga). Mientras sigamos en la Universidad, la respuesta se irá modificando según como cambia el ejercicio profesional y la forma de aprender de los estudiantes.
  
 
-# *¿Cómo aprenden los estudiantes*
+`` ### *¿Cómo aprenden los estudiantes*
 
 
 
