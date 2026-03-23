@@ -4,7 +4,7 @@ collection: teaching
 type: "Grado"
 permalink: /teaching/2024-mecanica-fluidos
 venue: "Facultad de Ciencias Exactas, Físicas y Naturales, UNC"
-date: 2024-01-01
+date: 2023-01-01
 location: "Córdoba, Argentina"
 ---
 
