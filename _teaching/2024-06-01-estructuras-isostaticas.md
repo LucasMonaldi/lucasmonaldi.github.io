@@ -1,6 +1,7 @@
 ---
 title: "Estructuras Isostáticas"
 collection: teaching
+order: 2
 type: "Grado"
 permalink: /teaching/2024-06-01-estructuras-isostaticas
 venue: "Facultad de Ciencias Exactas, Físicas y Naturales, UNC"
