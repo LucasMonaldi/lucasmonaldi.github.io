@@ -2,7 +2,7 @@
 title: "Mecánica de los Fluidos"
 collection: teaching
 type: "Grado"
-permalink: /teaching/2024-mecanica-fluidos
+permalink: /teaching/2023-mecanica-fluidos
 venue: "Facultad de Ciencias Exactas, Físicas y Naturales, UNC"
 date: 2023-01-01
 location: "Córdoba, Argentina"
