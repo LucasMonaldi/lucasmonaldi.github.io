@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lucas Monaldi (Site under maintenance)"
+title: "Lucas Monaldi"
 author_profile: true
 redirect_from: 
   - /about/
