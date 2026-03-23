@@ -4,7 +4,7 @@ collection: teaching
 type: "Grado"
 permalink: /teaching/2024-06-01-estructuras-isostaticas
 venue: "Facultad de Ciencias Exactas, Físicas y Naturales, UNC"
-date: 2022-06-01
+date: 2024-06-01
 location: "Córdoba, Argentina"
 ---
 
