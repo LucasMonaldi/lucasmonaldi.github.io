@@ -1,6 +1,7 @@
 ---
 title: "Mecánica de los Fluidos"
 collection: teaching
+order: 1
 type: "Grado"
 permalink: /teaching/2023-01-01-mecanica-de-fluidos
 venue: "Facultad de Ciencias Exactas, Físicas y Naturales, UNC"
